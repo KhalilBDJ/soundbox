@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:KhalilBDJ/soundbox-frontend.git
+[submodule "soundbox-python-converter"]
+	path = soundbox-python-converter
+	url = git@github.com:KhalilBDJ/soundbox-python-converter.git
