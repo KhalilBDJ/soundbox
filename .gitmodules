@@ -7,3 +7,6 @@
 [submodule "soundbox-python-converter"]
 	path = soundbox-python-converter
 	url = git@github.com:KhalilBDJ/soundbox-python-converter.git
+[submodule "soundbox-frontend-vue"]
+	path = soundbox-frontend-vue
+	url = git@github.com:KhalilBDJ/soundbox-frontend-vue.git
